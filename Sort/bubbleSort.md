@@ -38,4 +38,4 @@ def bubbleSort(arr):
 - Độ phức tạp:
   - Best: $\Omega (n)=n$
   - Average: $\Theta (n) = n^2$
-  - Worst: $\Omicron(n) = n^2$
+  - Worst: $$\Omicron(n) = n^2$$
