@@ -15,7 +15,7 @@ def selectionSort(arr):
     for i in range(l):
         p = i
         for j in range(i,l):
-            if arr[j]<arr[i]:
+            if arr[j]<arr[p]:
                 p = j
         arr[i], arr[p] = arr[p], arr[i]
 ```
